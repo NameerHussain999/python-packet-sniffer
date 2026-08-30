@@ -1,0 +1,8 @@
+LOG_FILE = "logs/packets.csv"
+ALERT_LOG_FILE = "logs/alerts.log"
+
+PORT_SCAN_THRESHOLD = 10
+PORT_SCAN_WINDOW = 5
+
+SYN_THRESHOLD = 30
+SYN_WINDOW = 5
