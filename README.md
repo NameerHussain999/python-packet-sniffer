@@ -452,7 +452,23 @@ Possible future improvements include:
 - Visualization/dashboard support
 
 ---
+## 📸 Project Screenshots
 
+### Live Packet Capture
+Real-time network packets captured and analyzed by the sniffer.
+
+![Live Packet Capture](screenshots/live-capture.png)
+
+### Protocol Filtering
+Network traffic filtered by protocol for focused analysis.
+
+![Protocol Filtering](screenshots/protocol-filter.png)
+
+
+### Wireshark Validation
+Captured traffic validated using Wireshark to verify the sniffer's results.
+
+![Wireshark Validation](screenshots/wireshark-validation.png)
 ## Disclaimer
 
 This software is provided for educational and authorized defensive-security purposes. The user is responsible for ensuring they have permission to capture and analyze traffic on the network being monitored.
