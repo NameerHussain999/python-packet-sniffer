@@ -468,7 +468,7 @@ Network traffic filtered by protocol for focused analysis.
 ### Wireshark Validation
 Captured traffic validated using Wireshark to verify the sniffer's results.
 
-![Wireshark Validation](screenshots/wireshark-validation.png)
+![Wireshark Validation](screenshots/Wireshark-validation.png)
 ## Disclaimer
 
 This software is provided for educational and authorized defensive-security purposes. The user is responsible for ensuring they have permission to capture and analyze traffic on the network being monitored.
